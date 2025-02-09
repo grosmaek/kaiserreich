@@ -1,0 +1,96 @@
+﻿l_russian:
+  
+ ASM: "Ассам"
+ ASM_ADJ: "Ассамск"
+ ASM_DEF: "Ассам"
+  
+ BNG: "Бенгалия"
+ BNG_ADJ: "Бенгальск"
+ BNG_DEF: "Бенгалия"
+  
+ BOM: "Махараштра"
+ BOM_ADJ: "Махараштрск"
+ BOM_DEF: "Махараштра"
+  
+ GUJ: "Гуджарат"
+ GUJ_ADJ: "Гуджаратск"
+ GUJ_DEF: "Гуджарат"
+  
+ INR: "Бхаратские мятежники"
+ INR_ADJ: "Бхаратск"
+ INR_DEF: "Бхаратские мятежники"
+  
+ KAS: "Кашмир"
+ KAS_ADJ: "Кашмирск"
+ KAS_DEF: "Кашмир"
+  
+ MYS: "Майсур"
+ MYS_ADJ: "Майсурск"
+ MYS_DEF: "Майсур"
+  
+ ORI: "Орисса"
+ ORI_ADJ: "Орийск"
+ ORI_DEF: "Орисса"
+  
+ PJB: "Пенджаб"
+ PJB_ADJ: "Пенджабск"
+ PJB_DEF: "Пенджаб"
+  
+ pakistan: "Пакистан"
+ pakistan_ADJ: "Пакистанск"
+ pakistan_DEF: "Пакистан"
+  
+ KHA: "Халистан"
+ KHA_ADJ: "Халистанск"
+ KHA_DEF: "Халистан"
+  
+ RJS: "Раджастан"
+ RJS_ADJ: "Раджастанск"
+ RJS_DEF: "Раджастан"
+  
+ TRV: "Траванкор"
+ TRV_ADJ: "Траванкорск"
+ TRV_DEF: "Траванкор"
+  
+ HIN: "Индостан"
+ HIN_ADJ: "Индостанск"
+ HIN_DEF: "Индостан"
+  
+ ### World Tension ### 
+ indian_wars_threat: "Война за объединение Индии"
+  
+ ### Characters ### 
+ BNG_muzaffar_ahmad: "Muzaffar Ahmad" #NT!
+  
+ GUJ_bahman_pestonji_wadia: "Бахман Пестонджи Вадиа"
+ GUJ_sayajirao_gaekwad_iii: "Саяджирао Гаеквад III"
+  
+ PJB_sultan_muhammed_shah: "Sultan Muhammed Shah" #NT!
+ PJB_liaquat_ali_khan: "Лиакат Али-хан"
+ PJB_allama_mashriqi: "Аллама Машрики"
+ PJB_akbar_khan: "Акбар Хан"
+ PJB_abul_ala_maududi: "Абу-ль-Аля Маудуди"
+  
+ PJB_ali_haidar: "Али Хайдар"
+ PJB_mahmood_khan_durrani: "Махмуд Хан Дуррани"
+ PJB_shah_nawaz_khan: "Шах Наваз Хан"
+  
+ KHA_tara_singh: "Тара Сингх"
+  
+ RJS_sawai_man_singh_ii: "Савай Мэн Сингх II"
+  
+ TRV_chithira_thirunal_balarama_varma: "Читхира Тирунал Баларама Варма"
+ TRV_chandrasekharan_nair: "Чандрасекаран Наир"
+  
+ ### Tooltips ### 
+ india_will_seize_ceylon_if_germany_at_war: "Цейлон будет захвачен, если это решение будет принято в то время, когда Германия вовлечена в большую войну."
+ india_compliance_gain_plus_three: "(§YИндия§!) $MODIFIER_COMPLIANCE_GAIN_ADD$: [?0.03|+=%%]"
+ india_compliance_gain_plus_two: "(§YИндия§!) $MODIFIER_COMPLIANCE_GAIN_ADD$: [?0.02|+=%%]"
+ india_compliance_gain_plus_one: "(§YИндия§!) $MODIFIER_COMPLIANCE_GAIN_ADD$: [?0.01|+=%%]"
+  
+ ### Shared Decisions ### 
+  
+ india_invade_tawang_decision: "Потребовать [858.GetName]"
+ india_invade_tawang_decision_desc: "Во время первоначального хаоса, приведшего к краху британского владычества над Индией, приграничная территория [858.GetName] оказалась под оккупацией местных правителей. Теперь, когда субконтинент вновь стал единым, настало время добиваться восстановления правильных границ государства."
+ india_invade_aksai_chin_decision: "Потребовать [897.GetName]"
+ india_invade_aksai_chin_decision_desc: "Весь Кашмир является частью Индии, независимо от любых китайских заявлений об обратном, и это, конечно, распространяется на самую северную часть региона, которая, к сожалению, оказалась под иностранной оккупацией. Поэтому следует отправить запрос государству [FROM.GetName] с требованием эвакуироваться из региона, чтобы он наконец полностью перешел под [ROOT.GetAdjective]ое управление."
