@@ -13,14 +13,14 @@
  carrier: "Авианосец"
  carrier_desc: "Крупный корабль, способный нести эскадрильи палубной авиации. Может также использоваться как плавучий аэродром вблизи побережья противника."
  battleship: "Линкор"
- battleship_desc: "Battleships are mid-level capital ships with all-round performance. They balance speed, armour, and firepower, but don't excel in any area." #NT!
- armor_desc: "The largest and strongest armour that money can buy." #NT!
+ battleship_desc: "Линкоры - это боевые корабли среднего уровня, обладающие универсальными характеристиками. Они сочетают скорость, броню и огневую мощь, но не отличаются превосходством ни в одной области." #NT!
+ armor_desc: "Самая большая и прочная броня, которую только можно купить за деньги." #NT!
  battle_cruiser: "Линейный крейсер"
- battle_cruiser_desc: "A capital ship often with offensive abilities close to those of a battleship, but with weaker armour traded for a faster speed." #NT!
+ battle_cruiser_desc: "Крупный корабль, часто обладающий атакующими способностями, близкими к боевым кораблям, но с более слабой броней, которую можно обменять на более высокую скорость." #NT!
  convoy: "Конвой"
  convoy_desc: "Конвои используются для международной торговли товарами и ресурсами; также они способны перевозить войска и принимать участие в морских высадках."
- sh_battleship: "Dreadnought" #NT!
- sh_battleship_desc: "The largest capital ship with the biggest guns and strongest armour that money can buy. Such an expensive investment deserves proper support of smaller screening ships." #NT!
+ sh_battleship: "Дредноут" #NT!
+ sh_battleship_desc: "Самый большой военный корабль с самыми мощными орудиями и прочнейшей броней, которые только можно купить за деньги. Такая дорогостоящая инвестиция заслуживает надлежащей поддержки небольших досмотровых кораблей." #NT!
   
  light_airframe: "Легкая конструкция"
  light_airframe_desc: "Самолеты на базе легкой конструкции"
